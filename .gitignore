@@ -1,0 +1,11 @@
+node_modules
+dist
+*.local
+.DS_Store
+.claude
+
+# Reference / scratch assets kept locally (served audio lives in public/)
+*.jpg
+*.jpeg
+*.webp
+/rainsound.mp3
